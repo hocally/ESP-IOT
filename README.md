@@ -1,2 +1,2 @@
 # ESP-IOT
-This is 
+This is a project that will use an ESP8266 (NodeMCU) for basic automation around my house. The required circuitry will change and be updated as the project grows. Right now, the goal is to be able to change my TV channel and volume, turn my lights on and off, and cool the room with AC. I'm not a web developer by any stretch of the imaginatrion, so I'm sure the HTML will be horrendous...
